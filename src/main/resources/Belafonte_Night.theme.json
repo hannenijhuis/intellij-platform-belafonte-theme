@@ -1,0 +1,14 @@
+{
+  "name": "Belafonte Night",
+  "dark": true,
+  "author": "",
+
+  "editorScheme": "/META-INF/Belafonte_Night.xml",
+
+  "ui": {
+    "*": {
+      "background": "#20111b",
+      "foreground": "#968c83"
+    }
+  }
+}

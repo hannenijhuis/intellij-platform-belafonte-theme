@@ -1,0 +1,29 @@
+{
+  "name": "Belafonte Day",
+  "dark": false,
+  "author": "",
+  "editorScheme": "/Belafonte_Day.xml",
+  "colors": {
+    "basicBackground": "#d5ccba",
+    "basicForeground": "#45373c",
+    "cursor": "#45373c",
+    "color0": "#20111b",
+    "color8": "#5e5252",
+    "red": "#bd100e",
+    "color10": "#858162",
+    "yellow": "#eea549",
+    "blue": "#426a79",
+    "brown": "#97522c",
+    "color14": "#989a9c",
+    "color7": "#968c83",
+    "color15": "#d5ccba"
+  },
+  "ui": {
+    "*": {
+      "background": "basicBackground",
+      "foreground": "basicForeground",
+      "separatorColor": "basicForeground",
+      "borderColor": "color7"
+    }
+  }
+}

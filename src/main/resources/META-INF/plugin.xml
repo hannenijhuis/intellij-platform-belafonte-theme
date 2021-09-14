@@ -9,6 +9,10 @@
     <extensions defaultExtensionNs="com.intellij">
         <applicationService serviceImplementation="com.github.hannenijhuis.intellijplatformbelafontetheme.services.MyApplicationService"/>
         <projectService serviceImplementation="com.github.hannenijhuis.intellijplatformbelafontetheme.services.MyProjectService"/>
+        <themeProvider id="cc0ac52e-ce75-4ae3-b6e9-d069c75428f3"
+                       path="/Belafonte_Day.theme.json"/>
+        <themeProvider id="9156e995-cc6d-43ca-bf08-da3bd9e56369"
+                       path="/Belafonte_Night.theme.json"/>
     </extensions>
 
     <applicationListeners>
